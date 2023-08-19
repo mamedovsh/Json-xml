@@ -1,35 +1,35 @@
-<req>
 
-        <surname>Иванов</surname>
+{
 
-        <name>Иван</name>
+    ""surname"": ""Иванов""
 
-        <patronymic>Иванович</patronymic>
+    ""name"": ""Иван""
 
-        <birthdate>01.01.1990</birthdate>
+    ""patronymic"": ""Иванович""
 
-        <birthplace>Москва</birthplace>
+    ""birthdate"": ""01.01.1990""
 
-        <phone>8 926 766 48 48</phone>
+    ""birthplace"": ""Москва""
 
-</req
+    ""phone"": ""8 926 766 48 48""
+}
+ Лишние кавычки и отсутствие запятых.
+ Исправленный вариант. 
 
+[
+{
 
-// Не закрыт </req
+    "surname": "Иванов",
 
-// Исправленный вариант.
-<req>
+    "name": "Иван",
 
-        <surname>Иванов</surname>
+    "patronymic": "Иванович",
 
-        <name>Иван</name>
+    "birthdate": "01.01.1990",
 
-        <patronymic>Иванович</patronymic>
+    "birthplace": "Москва",
 
-        <birthdate>01.01.1990</birthdate>
+    "phone": "8 926 766 48 48"
 
-        <birthplace>Москва</birthplace>
-
-        <phone>8 926 766 48 48</phone>
-
-</req>
+}
+]
